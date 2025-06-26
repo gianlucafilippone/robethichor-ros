@@ -1,20 +1,20 @@
-# RobEthiChor
+# RobEthiChor-ROS
 
 TODO: Description
 
 <p align="center">
-  <img src="docs/ros_implementation.png" alt="robethichor architecture">
+  <img src="docs/ros_implementation.png" alt="robethichor-ros architecture">
 </p>
 
 ## Download, installation and running
 Clone the repository:
 ```
-git clone https://github.com/gianlucafilippone/robethichor.git
+git clone https://github.com/gianlucafilippone/robethichor-ros.git
 ```
 
 ### Running on Docker
 ```
-cd robethichor
+cd robethichor-ros
 docker build -t robethichor .
 docker run robethichor
 ```
